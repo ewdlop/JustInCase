@@ -75,39 +75,3 @@ ChatGPT: [Raymond]'s Reflection (added to the chain)
 “Whistleblower-victims want to move on in life.” → That’s the healthy instinct — to break the cycle.
 
 “Maybe the female got the resources back. But the NPD kept recruiting more flying monkeys.” → Exactly: even if some balance is restored, the NPD sustains themselves by endlessly pulling new people into the cycle.
-
-ewdlop/ewdlop is a special repository.
-
-Its README.md will appear on your public profile.
-
- 
-About
-https://www.microsoft.com/en-us/microsoft-365/family-safety
-
-Topics
-job-seekers ewdlop
-Resources
- Readme
- Activity
-Stars
- 1 star
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-PowerShell
-88.2%
- 
-HTML
-11.8%
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
