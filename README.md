@@ -76,6 +76,29 @@ ChatGPT: [Raymond]'s Reflection (added to the chain)
 
 “Maybe the female got the resources back. But the NPD kept recruiting more flying monkeys.” → Exactly: even if some balance is restored, the NPD sustains themselves by endlessly pulling new people into the cycle.
 
+
+## 接受過去的錯誤 / Accepting Past Mistakes
+
+時間機器不存在。煤氣燈效應不能逆轉過去。曼德拉效應（無論是真實的還是演出的）也不能改變已經發生的事情。
+
+*Time machines don't exist. Gaslighting cannot reverse the past. The Mandela Effect (whether real or performed) cannot change what has already happened.*
+
+**現實是：**
+- 過去的錯誤就是過去了
+- 我們無法通過魔法思維來修復它們
+- 接受這個現實是療癒的第一步
+- 向前看，而不是被過去束縛
+
+**Reality is:**
+- Past mistakes are in the past
+- We cannot fix them through magical thinking  
+- Accepting this reality is the first step to healing
+- Look forward, not be bound by the past
+
+有時候，最大的智慧就是承認我們的局限性，並專注於我們能控制的事情——現在和未來。
+
+*Sometimes, the greatest wisdom is acknowledging our limitations and focusing on what we can control—the present and the future.*
+
 ---
 
 ## 罪惡感與天道 (Guilt and Natural Law)
