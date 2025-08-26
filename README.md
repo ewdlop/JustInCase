@@ -138,6 +138,42 @@ ChatGPT: [Raymond]'s Reflection (added to the chain)
 
 “Maybe the female got the resources back. But the NPD kept recruiting more flying monkeys.” → Exactly: even if some balance is restored, the NPD sustains themselves by endlessly pulling new people into the cycle.
 
+## 「向前走」的複雜性 / The Complexity of "Moving On"
+
+**但是「向前走」真的是一個選擇嗎？**
+
+*But is "moving on" really a choice?*
+
+對於許多受害者來說，「向前走」可能：
+
+**For many victims, "moving on" might:**
+
+* **不是真正的選擇** / **Not be a real choice**
+  - 社會壓力要求你「放下」
+  - 缺乏資源繼續尋求正義
+  - 為了生存必須假裝「沒事」
+
+* **不是你想要的** / **Not be what you want**  
+  - 你可能想要真相被承認
+  - 你可能需要道歉或賠償
+  - 「向前走」感覺像是讓加害者逃脫
+
+* **充滿矛盾** / **Full of contradictions**
+  - 理智知道應該向前走
+  - 情感上無法真正放下
+  - 身體記住創傷，即使心理想忘記
+
+**現實是複雜的：**
+- 有時候「向前走」是被迫的，不是自願的
+- 有時候堅持尋求正義是合理的，不是「執著」
+- 有時候你需要先獲得某種形式的確認或正義，才能真正向前走
+
+**Reality is complex:**
+- Sometimes "moving on" is forced, not voluntary
+- Sometimes persisting in seeking justice is reasonable, not "obsession"  
+- Sometimes you need some form of acknowledgment or justice before you can truly move forward
+
+---
 
 ## 接受過去的錯誤 / Accepting Past Mistakes
 
