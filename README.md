@@ -94,6 +94,134 @@ NPD 常使用的一種操縱手法是強迫受害者「承認」過錯，然後�
 
 ---
 
+## 好警察壞警察操縱手法 (Good Cop, Bad Cop Manipulation)
+
+**當群體使用分化策略來控制你**
+
+*When groups use divide-and-conquer strategies to control you*
+
+「好警察壞警察」是一種經典的操縱策略，常被NPD或有毒群體使用來：
+
+*"Good cop, bad cop" is a classic manipulation strategy often used by NPDs or toxic groups to:*
+
+### 策略運作方式 / How the Strategy Works
+
+1. **角色分工** / **Role Division**
+   * **壞警察**：直接攻擊、批評、施壓受害者
+   * **好警察**：表現友善、理解、提供「幫助」
+   * **Bad cop**: Directly attacks, criticizes, pressures the victim
+   * **Good cop**: Appears friendly, understanding, offers "help"
+
+2. **心理效應** / **Psychological Effects**
+   * 受害者對「好警察」產生感激和信任
+   * 降低防備心，更容易透露資訊或妥協
+   * 創造錯誤的救援感和依賴關係
+   * *Victim develops gratitude and trust toward the "good cop"*
+   * *Lowers defenses, making it easier to reveal information or compromise*
+   * *Creates false sense of rescue and dependency*
+
+3. **最終目標** / **Ultimate Goal**
+   * 兩個角色實際上為同一目標工作
+   * 獲得控制權、資訊或讓受害者服從
+   * 維持權力動態和依賴關係
+   * *Both roles actually work toward the same goal*
+   * *Gain control, information, or victim compliance*
+   * *Maintain power dynamics and dependency*
+
+### 在NPD情境中的表現 / Manifestation in NPD Contexts
+
+**家庭環境中：**
+* NPD父母 + 其他家庭成員配合演出
+* 一個嚴厲批評，另一個「理解」並提供虛假安慰
+* 受害者被迫在兩者間選擇，實際上都不是真正的支持
+
+**職場環境中：**
+* NPD主管 + 其他同事的配合
+* 一方施壓要求過度工作，另一方「同情」但暗示這是必要的
+* 創造「至少還有人理解我」的錯覺
+
+**社交群體中：**
+* NPD領導者 + flying monkeys分工合作
+* 一些人攻擊受害者，另一些人假裝中立或友善
+* 讓受害者誤以為群體中還有「盟友」
+
+### 識別警告信號 / Warning Signs to Recognize
+
+**注意這些模式：**
+* 同一群體中有人對你特別苛刻，有人特別友善
+* 「好警察」總是在「壞警察」攻擊後出現
+* 「好警察」的幫助總是有條件的或暫時的
+* 最終兩個角色都推動相同的議程
+
+**When you notice these patterns:**
+* *Some in the same group are particularly harsh, others particularly kind*
+* *"Good cop" always appears after "bad cop" attacks*
+* *"Good cop's" help is always conditional or temporary*
+* *Both roles ultimately push the same agenda*
+
+### 應對策略 / Coping Strategies
+
+1. **保持整體視角** / **Maintain Overall Perspective**
+   ```
+   「不要只看個別的友善行為，要看整個群體的最終目標」
+   "Don't just look at individual friendly acts, look at the group's ultimate goal"
+   ```
+
+2. **質疑時機** / **Question the Timing**
+   * 為什麼這個人在我最脆弱時出現？
+   * 他們的「幫助」是否總是在衝突後出現？
+   * *Why does this person appear when I'm most vulnerable?*
+   * *Does their "help" always appear after conflicts?*
+
+3. **測試真實性** / **Test Authenticity**
+   * 當你拒絕「好警察」的建議時，他們如何反應？
+   * 他們是否會私下批評「壞警察」，但公開保持中立？
+   * *How do they react when you refuse the "good cop's" advice?*
+   * *Do they criticize the "bad cop" privately but remain neutral publicly?*
+
+4. **尋求外部視角** / **Seek External Perspective**
+   * 與群體外的信任朋友討論情況
+   * 諮詢專業心理諮詢師
+   * 記錄事件模式以看清全貌
+   * *Discuss the situation with trusted friends outside the group*
+   * *Consult professional counselors*
+   * *Document event patterns to see the full picture*
+
+### 健康的支持 vs 操縱性支持 / Healthy Support vs Manipulative Support
+
+**真正的支持：**
+* 無條件的理解和關心
+* 尊重你的決定和界限
+* 不要求回報或順從
+* 一致的行為模式
+
+**操縱性的「支持」：**
+* 有隱含條件和期望
+* 在你最脆弱時出現
+* 最終推動特定議程
+* 與群體的整體行為相矛盾
+
+**Genuine support:**
+* *Unconditional understanding and care*
+* *Respects your decisions and boundaries*
+* *Doesn't demand reciprocation or compliance*
+* *Consistent behavioral patterns*
+
+**Manipulative "support":**
+* *Has implicit conditions and expectations*
+* *Appears when you're most vulnerable*
+* *Ultimately pushes specific agendas*
+* *Contradicts the group's overall behavior*
+
+**記住**：
+> 真正的朋友不需要在你面前演戲。  
+> 如果支持需要你忽視其他紅旗，那就不是真正的支持。
+
+> *Real friends don't need to put on an act in front of you.*  
+> *If support requires you to ignore other red flags, it's not genuine support.*
+
+---
+
 ## 簡單對照表
 
 | 面向      | 自閉症 (ASD)        | 自戀型人格障礙 (NPD)  |
