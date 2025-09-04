@@ -1,3 +1,6 @@
+## TO be fair
+I did fight fire with fire.
+
 ## 社群溝通指南 (Community Communication Guidelines)
 
 **本資源庫的目的**是提供支持和教育，幫助人們理解和處理困難的人際關係。
